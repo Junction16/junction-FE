@@ -1,4 +1,5 @@
 import Filter from "@/components/Filter";
+import Header from "@/components/Header";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -54,6 +55,7 @@ export default async function VocaPage({
   ];
   return (
     <main className="w-full flex flex-col gap-6">
+      <Header showSearch />
       <Filter />
 
       <div className="flex justify-between items-center">

@@ -4,7 +4,8 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "Lingo Clips",
     short_name: "Lingo Clips",
-    description: "LingoClips is an app that helps you learn languages through video clips.",
+    description:
+      "LingoClips is an app that helps you learn languages through video clips.",
     start_url: "/",
     display: "standalone",
     theme_color: "#ffffff",

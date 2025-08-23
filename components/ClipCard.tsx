@@ -24,12 +24,14 @@ export default function ClipCard() {
 
   return (
     <div className="flex flex-col gap-2">
-      {list.map((item) => (
+      {list.map((item, idx) => (
         <div className="relative h-48 rounded-2xl overflow-hidden">
-          <Image src="/archive-mock.png" alt="archive" fill />
-          <div className="relative h-full flex items-center justify-center">
-            <div className="text-white text-lg font-medium"></div>
-          </div>
+          <Image
+            src={`/Horizontal_0${idx % 2 === 0 ? 1 : 2}.png`}
+            alt="archive"
+            fill
+            className="object-cover"
+          />
         </div>
       ))}
     </div>

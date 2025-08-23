@@ -2,6 +2,7 @@
 
 import { vocaSelect } from "@/app/api/endpoints/voca-controller/voca-controller";
 import { VocaResDTO } from "@/app/api/model";
+import Header from "@/components/Header";
 import { useEffect, useRef, useState } from "react";
 
 export default function MyVocaHistoryPage({
@@ -84,7 +85,7 @@ export default function MyVocaHistoryPage({
 
   if (!load || voca.length === 0) {
     return (
-      <div className="w-screen max-w-[430px] without-navbar-height -m-4 bg-gray-100 px-4 flex flex-col gap-4 justify-center items-center">
+      <div className="w-screen max-w-[430px] without-navbar-height -m-4 bg-[#FAFAFA] px-4 flex flex-col gap-4 justify-center items-center">
         <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-purple-500"></div>
         <div className="text-black text-2xl font-medium">Loading...</div>
       </div>
@@ -138,10 +139,8 @@ export default function MyVocaHistoryPage({
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >
-        <h1 className="text-2xl font-bold text-center">내가 학습한 단어장</h1>
-        <p className="text-center text-lg font-semibold">
-          {currentIndex + 1} / {voca.length}
-        </p>
+        <Header title={`${category}: ${currentIndex + 1} / ${voca.length}`} />
+
         <div className="flip-card" onClick={() => setIsFlipped(!isFlipped)}>
           <div className={`flip-card-inner ${isFlipped ? "is-flipped" : ""}`}>
             <div className="flip-card-front">

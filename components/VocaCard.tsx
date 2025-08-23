@@ -32,6 +32,18 @@ export default function VocaCard() {
       category: "study",
       color: "#E3E4FF",
     },
+    {
+      name: "비즈니스 영어 단어",
+      image: "/line.png",
+      category: "study",
+      color: "#E3E4FF",
+    },
+    {
+      name: "헬스장 필수 문장",
+      image: "/circle.png",
+      category: "exercise",
+      color: "#D9D9D9",
+    },
   ];
 
   return (

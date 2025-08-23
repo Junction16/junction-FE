@@ -1,6 +1,5 @@
 import AttendanceCard from "@/components/AttendanceCard";
 import ClipCard from "@/components/ClipCard";
-import CustomButton from "@/components/CustomButton";
 import Profile from "@/components/Profile";
 import StatsSelector from "@/components/StatsSelector";
 import VocaCard from "@/components/VocaCard";
@@ -50,11 +49,11 @@ export default async function MyPage({
       </div>
 
       {/* 로그아웃 */}
-      <CustomButton
+      {/* <CustomButton
         active="logout"
         name="로그아웃"
         className="text-secondary w-full h-12 rounded-lg !bg-primary/70 text-white shadow-lg "
-      />
+      /> */}
     </main>
   );
 }

@@ -13,6 +13,14 @@ export const metadata: Metadata = {
   },
   icons: {
     apple: "/apple-icon.png",
+    other: [
+      {
+        rel: "apple-touch-startup-image",
+        url: "/splash.png",
+        media:
+          "(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)",
+      },
+    ],
   },
 };
 
