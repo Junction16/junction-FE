@@ -19,7 +19,7 @@ export default function StatsSelector({ selectedStat }: StatsSelectorProps) {
   >([
     { key: "vocabulary", label: "단어장", count: 0 },
     { key: "collection", label: "클립", count: 0 },
-    { key: "attendance", label: "와움도감", count: 0 },
+    { key: "attendance", label: "와옹도감", count: 0 },
   ]);
 
   useEffect(() => {
@@ -44,7 +44,7 @@ export default function StatsSelector({ selectedStat }: StatsSelectorProps) {
       setStats([
         { key: "vocabulary", label: "단어장", count: r2.data.vocaSize ?? 0 },
         { key: "collection", label: "클립", count: r1.data.videoCnt ?? 0 },
-        { key: "attendance", label: "와움도감", count: 5 },
+        { key: "attendance", label: "와옹도감", count: 5 },
       ]);
     };
     fetchStats();

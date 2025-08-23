@@ -17,12 +17,16 @@ export default function VocaCategoryPage({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [newCharacter, setNewCharacter] = useState<{ image: string; name: string } | null>(null);
+  const [newCharacter, setNewCharacter] = useState<{
+    image: string;
+    name: string;
+  } | null>(null);
+  const [isFirst, setIsFirst] = useState(true);
 
   const touchStartX = useRef<number | null>(null);
 
   const characters = [
-    { image: "Character_01.png", name: "캐릭터 1" },
+    { image: "Character_01.png", name: "와옹이" },
     { image: "Character_02.png", name: "캐릭터 2" },
     { image: "Character_03.png", name: "캐릭터 3" },
     { image: "Character_04.png", name: "캐릭터 4" },
@@ -59,6 +63,16 @@ export default function VocaCategoryPage({
     setIsFlipped(false);
     if (currentIndex < voca.length - 1) {
       setCurrentIndex(currentIndex + 1);
+      console.log(
+        currentIndex + 1,
+        currentIndex + 1 == 1,
+        currentIndex + 1 === 1
+      );
+      if (currentIndex + 1 === 1 && isFirst) {
+        setNewCharacter(characters[0]);
+        setIsModalOpen(true);
+        setIsFirst(false);
+      }
     } else {
       if ((currentIndex + 1) % 5 === 0) {
         const characterIndex = ((currentIndex + 1) / 5 - 1) % characters.length;
@@ -74,8 +88,8 @@ export default function VocaCategoryPage({
 
   const handleCloseModalAndFetch = async () => {
     setIsModalOpen(false);
-    setLoad(false);
-    await fetchVoca();
+    // setLoad(false);
+    // await fetchVoca();
     setCurrentIndex(currentIndex + 1);
   };
 
@@ -143,7 +157,7 @@ export default function VocaCategoryPage({
         .is-flipped {
           transform: rotateY(180deg);
         }
-        .flip-card-front, 
+        .flip-card-front,
         .flip-card-back {
           position: absolute;
           width: 100%;
