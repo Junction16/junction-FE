@@ -1,0 +1,2165 @@
+[
+  {
+    "seq": 1,
+    "lesson": "Lesson1",
+    "lesson_title": "5가지 기본 문형",
+    "expression_list": [
+      {
+        "kor_expression": "~가 있었다",
+        "eng_expression": "There used to be ~<S＋V : 1형식>",
+        "example": "<i>There used to be</i> many tall poplars in front of the school buildings.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "내가 어렸을 때 우리 동네엔 오래된 절이 하나 있었다.",
+            "eng_sentence1": "When I was young, there used to be an old temple in my neighborhood.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "간밤에 우리 집 근처에서 큰 화재가 발생했다.",
+            "eng_sentence1": "① A big fire broke out near my house last night.",
+            "eng_sentence2": "② There was a big fire near my house last night.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그것에 대해서는 의문이 있을 수 없다.",
+            "eng_sentence1": "① There seems to be no doubt about it.",
+            "eng_sentence2": "② It seems that there is no doubt about it.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "컴퓨터에 이상이 있는 것처럼 보인다. 수리를 시켜야겠다.",
+            "eng_sentence1": "① There seems to be something wrong with the computer. I must <b>have</b>(= get) it repaired.",
+            "eng_sentence2": "② It seems that there is something wrong with the computer. I must <b>have</b>(= get) it repaired.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "금년 겨울에는 눈이 많이 올 것 같다.",
+            "eng_sentence1": "① It seems likely that it will snow a lot this winter.",
+            "eng_sentence2": "② It seems likely to show a lot this winter.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "항아리에는 설탕이 거의 남아 있지 않다.",
+            "eng_sentence1": "There is little sugar left <b>in the pot</b>(= in the jar).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~처럼 보이다",
+        "eng_expression": "seem/appear/look ~<S＋V＋C : 2형식>",
+        "example": "She <i>looks</i> young for her age.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "이 천은 촉감이 보드랍고 마(碼)당으로 팔고 있습니다.",
+            "eng_sentence1": "This cloth feels <b>soft</b>(= smooth), and is sold by the yard.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 사과는 맛이 시지만 이 레몬은 냄새가 좋군요.",
+            "eng_sentence1": "This apple tastes sour, but this lemon smells good.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그녀의 남편은 일찍 죽었고, 그녀는 여생을 혼자 지냈다.",
+            "eng_sentence1": "Her husband died early and she remained single for the rest of her life.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 무일푼으로 집을 떠났으나 백만장자가 되어 돌아왔다.",
+            "eng_sentence1": "He had left home penniless, but he came back a millionaire.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 오늘 의기소침해 보인다. 그가 걱정하는 것이 있음에 틀림없다.",
+            "eng_sentence1": "He looks depressed today. He must be worried about something.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그 원칙은 우리 인간성에 깊히 뿌리박고 있다.",
+            "eng_sentence1": "The principle lies deep in our human nature.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 소식을 듣고 별안간 창백해졌다.",
+            "eng_sentence1": "He <b>suddenly turned</b>(= suddenly became) pale at the news.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그들은 연중 내내 나체로 지낸다.",
+            "eng_sentence1": "They go naked all the year round.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그녀는 한창때 미인이었던 것으로 보인다.",
+            "eng_sentence1": "① She seems to have been a beauty in her days.",
+            "eng_sentence2": "② It seems that she was a beauty in her days.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그 소문은 거짓으로 판명되었다.",
+            "eng_sentence1": "The rumor <b>turned out</b>(= proved) (to be) false.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "과로하다",
+        "eng_expression": "overwork oneself<S＋V＋O : 3형식>",
+        "example": "They <i>overworked themselves</i> to keep the original shipping date.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "편히 앉으셔서 케이크를 마음껏 드십시오.",
+            "eng_sentence1": "Please make yourself at home and help yourself to some cake.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 하품을 하면서 기지개를 폈다.",
+            "eng_sentence1": "① He stretched himself with a yawn.",
+            "eng_sentence2": "② He stretched himself yawning.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 여기에 자주 모습을 드러내지 않는다.",
+            "eng_sentence1": "① He rarely[seldom] shows himself here.",
+            "eng_sentence2": "② He seldom shows up here.",
+            "eng_sentence3": "③ He seldom appears here.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 자기 정신을 잃을 정도로 술을 마셨다.",
+            "eng_sentence1": "He drank himself into unconsciousness.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~을 덜어주다",
+        "eng_expression": "save＋I.O.＋D.O.<S＋V＋I.O.＋D.O. : 4형식>",
+        "example": "Machines <i>save</i> us much time and trouble.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그녀는 그의 인내심을 부러워했다.",
+            "eng_sentence1": "She envied him <b>his endurance</b>(= patience).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "지하철을 이용한 통근은 매달 7천 원을 절약시켜 준다.",
+            "eng_sentence1": "Commuting by subway saves me 7,000 won every month.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그 일로 해서 그는 건강을 해쳤다.",
+            "eng_sentence1": "The work cost him his health.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 친구에게 수고를 끼치지 않으려고 애썼다.",
+            "eng_sentence1": "He tried to spare his friend trouble.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 외아들이 원하는 것은 무엇이든 들어준다.",
+            "eng_sentence1": "① He denies his only son nothing.",
+            "eng_sentence2": "② He denies nothing to his only son.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "우리 질문에 대답할 수 있는 사람은 아무도 없는 것처럼 보였다.",
+        "eng_sentence1": "① There <b>seemed</b>(= appeared) to be <b>nobody</b>(= no one) who could answer our question.",
+        "eng_sentence2": "② Nobody seemed to be able to answer our question.",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "우리 집 근처엔 소나무 몇 그루가 있었는데 최근에 말라 죽었다.",
+        "eng_sentence1": "There used to be some pine trees near my house, but they have recently withered away.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "이 세계에는 피부색과 풍속, 습관이 다른 여러 종류의 사람들이 살고 있으나, 인간성이라는 것은 어디를 가든 큰 차이가 없다.",
+        "eng_sentence1": "There live in this world various kinds of people who are different from each other in the color of skin or in manners and customs, but human nature is <b>nearly</b>(= almost) the same everywhere.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "유효기간이 지났기 때문에 이 우유 맛이 이상하다. 고를 때 좀더 신경을 써야 했는데.",
+        "eng_sentence1": "This milk tastes strange because the expiration date on it has passed. I should have been more careful when choosing it.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "저는 미국인이 말을 걸어올 때 부담스럽고, 특히 제가 미국인 고객들에게 의사 전달을 잘하지 못할 땐 가슴이 답답했습니다.",
+        "eng_sentence1": "I felt burdened when an American spoke to me, and felt particularly frustrated when I couldn’t communicate with my American clients.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "아내와 화해하려고 시도해 보았으나 그녀는 저녁 내내 침묵으로 일관했다.",
+        "eng_sentence1": "I tried to <b>make up with</b>(= patch things up with) my wife, but she gave me the silent treatment the whole evening.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "통신의 향상뿐만 아니라, 개인용 컴퓨터는 회사에 출근하는 대신 집에서 근무하는 것을 가능하게 해 왔다.",
+        "eng_sentence1": "Besides improving communication, personal computers have made it possible to work at home instead of going to the office.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "그녀는 속 좁고 성급한 사람하고는 사귀지 않겠다고 여러 사람 앞에서 선언했다.",
+        "eng_sentence1": "She made it public that she would never <b>associate with</b>(= make friends with) a narrow-minded and hot-tempered person.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "나의 할아버지는 그림의 대가를 시켜 자신의 초상을 그렸으면 하는 마음이 간절하시다.",
+        "eng_sentence1": "My grandfather <b>is very desirous</b>(= would really like) to have his portrait painted by a great artist.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "그녀는 유방확대 수술과 얼굴성형 수술을 했다.",
+        "eng_sentence1": "She had her breasts enhanced and had plastic surgery done on her face.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 2,
+    "lesson": "Lesson2",
+    "lesson_title": "가주어 it 용법",
+    "expression_list": [
+      {
+        "kor_expression": "~이라고(들) 한다",
+        "eng_expression": "It is said that ~",
+        "example": "<i>It is said that</i> life is a mystery indeed.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "한국인은 근면한 민족이라고들 한다.",
+            "eng_sentence1": "It is said that the Koreans are a diligent people.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "교양의 가치는 그것이 인격에 미치는 영향에 있다고들 한다.",
+            "eng_sentence1": "It is said that the value of culture is its effect on character.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "미국에서는 보수를 연봉으로 받는다고 한다.",
+            "eng_sentence1": "It is said that they are paid by the year in America.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 의장직에서 물러날 것이라는 소문이다.",
+            "eng_sentence1": "① It is rumored that he will resign as chairman.",
+            "eng_sentence2": "② Rumor has it that he will resign as chairman.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "포항공대를 흔히 한국의 MIT라고들 한다.",
+            "eng_sentence1": "① It is often said that Pohang University of Science & Technology (POSTECH) is the MIT of Korea.",
+            "eng_sentence2": "② POSTECH is often said to be the MIT of Korea.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "작년에 서울에 세워진 뮤직홀은 아시아 제일이라고 한다.",
+            "eng_sentence1": "The music hall built in Seoul last year is said to be the finest one in Asia.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "A가 …한 것은 ~이다",
+        "eng_expression": "It ~ that A… (가주어 ~ 진주어 용법)",
+        "example": "<i>It is natural that</i> they should respect each other.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "이 상황이 훨씬 더 오래 지속될 수 없음이 분명하다.",
+            "eng_sentence1": "It is clear that this situation cannot last much longer.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그녀가 그와 결혼했다니 이상하다.",
+            "eng_sentence1": "It is strange that she should have married him.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 자살을 했다니 놀랍다.",
+            "eng_sentence1": "It is surprising that he should have killed himself.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 자기 아들이 의사가 되기를 바라는 것은 당연하다.",
+            "eng_sentence1": "It is natural that he (would) want his son to become a doctor.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "좋은 습관을 갖도록 하는 것이 중요하다.",
+            "eng_sentence1": "It is important that you (should) try to<b>form</b>(= have/acquire/take up/adopt) a good habit.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "우리는 그 일을 가능한 한 빨리 끝내야 할 필요가 있다.",
+            "eng_sentence1": "It is necessary that we (should) finish the work as soon as <b>possible</b>(= we can).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "…은 바로 ~이다",
+        "eng_expression": "It is ~ that… (강조 용법 : It ~ that…(가주어 ~ 진주어) 용법과 구별할 것)",
+        "example": "<i>It was</i> the meal <i>that</i> Jane paid for yesterday.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "내가 지갑을 잃어버린 것은 열차에서였다.",
+            "eng_sentence1": "It was <b>in</b>(= on) the train that I lost my purse.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "내가 찾고 있는 것은 나의 자동차 열쇠이다.",
+            "eng_sentence1": "It is my car key that I am looking for.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 이해를 못하는 것은 그가 너무 젊기 때문이다.",
+            "eng_sentence1": "It is because he is so young that he can’t understand.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "내게 돈을 빌려준 사람은 김씨였다.",
+            "eng_sentence1": "① It was Mr. Kim who lent the money to me.",
+            "eng_sentence2": "② It was Mr. Kim that lent me the money.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "울릉도가 그토록 아름답게 보이는 것은 사면이 바다로 둘러싸여 있기 때문이다.",
+            "eng_sentence1": "It is <b>chiefly</b>(= mainly) because Wullung Island is surrounded by the sea on the four sides that it looks so beautiful.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "대부분의 첫사랑은 반드시 실패할 것이라고들 한다. 그것은 경험에 근거하고 있으며 통계적으로 사실일 수도 있으나, 이치에 닿지 않는다[말이 안 된다].",
+        "eng_sentence1": "It is said that most first loves are bound to fail. That might be based on experience and may be statistically true, but it does not make sense.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "일회용 기저귀들이 분해되는[썩는] 데는 100년 이상이 걸리며, 그것들은 놀랄 만한 속도로 우리의 매립식 쓰레기 처리장을 채우고 있다고들 한다.",
+        "eng_sentence1": "It is said that disposable diapers take more than one hundred years to decompose, and they are filling our landfills at remarkable speed.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "일기예보에 의하면, 태풍은 연안으로 접근할 것 같다. 그러므로 재해에 대비하는 것이 긴급하다.",
+        "eng_sentence1": "① According to the weather forecast, the typhoon is likely to approach the coast. Therefore, it is urgent that we prepare for a disaster.",
+        "eng_sentence2": "② The weather forecast says that it is likely that the typhoon will approach the coast. Therefore, it is urgent for us to prepare against a disaster.",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "오늘날 우리는 정보 시대에 살고 있다. 따라서 독자들이 모든 분야, 특히 저널리즘에 그들 자신의 비판적 견해를 갖는 것은 중요하다.",
+        "eng_sentence1": "Today we live in an era of information. Accordingly, it is important for readers to <b>have a critical viewpoint of their own</b>(= have a critical understanding) in all fields, especially as it relates to journalism.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "수도의 심장부를 관통해서 흐르는 한강이 그토록 깨끗하여 서울 사람들에게 목가적[서정적]인 낚시터로 제공되었던 것은 불과 10년 가량 전이었다.",
+        "eng_sentence1": "It was only a decade or so that the Han River <b>flowing</b>(= running) through the heart of our capital became so clean that it provided idyllic fishing spots for Seoulites.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 3,
+    "lesson": "Lesson3",
+    "lesson_title": "형식주어it",
+    "expression_list": [
+      {
+        "kor_expression": "~하는 데 시간이 얼마 걸리다",
+        "eng_expression": "It takes＋시간＋to (do)",
+        "example": "<i>It takes</i> at least 30 minutes <i>to walk</i> to the station.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "거기까지 차로 가는 데 4시간 걸렸다.",
+            "eng_sentence1": "① It took me four hours to drive there.",
+            "eng_sentence2": "② It took four hours for me to drive there.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "배를 타고 그 섬까지 가는 데 3시간 걸렸다.",
+            "eng_sentence1": "It took me three hours to go to the island by boat.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하는 데 경비가 얼마 들다",
+        "eng_expression": "It costs＋금액＋to (do)",
+        "example": "<i>It cost</i> about 10 billion won <i>to construct</i> this dam.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "파리까지 비행하는 데 500달러가 들 것이다.",
+            "eng_sentence1": "① It will cost you $ 500 to fly to Paris.",
+            "eng_sentence2": "② It will cost $ 500 for you to fly to Paris.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 집을 짓는 데 6개월 반이란 세월과 1억의 경비가 들었습니다.",
+            "eng_sentence1": "It took six and a half months, and 100 million won to build this house.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 시계를 고치는 데 많은 돈이 들었다. 새 것을 사는 편이 좋을 걸 그랬다.",
+            "eng_sentence1": "It cost a lot of money for me to have this watch repaired. <b>I had better have bought a new one.</b>(= I should have bought a better one./ I’d have done better to have bought a new one.)",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~이래[~로부터] …흘렀다[지났다]",
+        "eng_expression": "햇수(월수/일수)＋have passed＋since＋주어＋동사의 과거형<br>= It is[It has been]＋햇수(월수/일수)＋since＋주어＋동사의 과거형",
+        "example": "<i>Two years have passed since</i> he moved to Washington.<br>= <i>It is two years since</i> he moved to Washington.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "전쟁이 시작된 지 거의 4년이 경과되었다.",
+            "eng_sentence1": "① Nearly four years have passed since the outbreak of the war.",
+            "eng_sentence2": "② It is nearly four years since the war broke out.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 박물관이 지어진 지도 약 100년이다.",
+            "eng_sentence1": "① This museum is about 100 years old.",
+            "eng_sentence2": "② This museum was built about 100 years ago.",
+            "eng_sentence3": "③ About 100 years have passed since this museum was built.",
+            "eng_sentence4": "④ It is about 100 years since this museum was built.",
+            "eng_sentence5": "⑤ It has been about 100 years since this museum was built.",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "…하고 나서야 비로소 ~하다",
+        "eng_expression": "not ~ until[till]… = It＋be동사＋not until ~ that…",
+        "example": "We do <i>not</i> know the value of health <i>until</i> we lose it.<br>= It is <i>not until</i> we lose health <i>that</i> we know its value.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그때서야 비로소 그가 매우 정직한 사람이라는 것을 알았다.",
+            "eng_sentence1": "① I did not know how honest he was until that time.",
+            "eng_sentence2": "② It was not until that time that I knew how honest he was.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "사람의 진가는 죽고 나서야 비로소 알 수 있다.",
+            "eng_sentence1": "① It is not until a man dies that you can tell his real worth.",
+            "eng_sentence2": "② You cannot tell a man’s worth until he dies.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "눈물로 쓴 편지를 읽고 나서야 비로소 그는 그녀의 사랑을 알았다.",
+            "eng_sentence1": "① He did not know her true love until he read the letter <b>that she wrote in tears</b>(= written in tears).",
+            "eng_sentence2": "② It was not until he read her letter written in tears that he <b>knew</b>(= found/ realized) her true love.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "머지않아 ~하게 되다",
+        "eng_expression": "It will not be long before ~",
+        "example": "<i>It will not be long before</i> we meet again.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "머지 않아 사건의 진상을 알 수 있을 것이다.",
+            "eng_sentence1": "① It will not be long before we <b>know</b>(= find) the truth of the matter.",
+            "eng_sentence2": "② The day will come soon when we will know the truth of the matter.",
+            "eng_sentence3": "③ We should be able to get to the bottom of matter before long.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "내 꿈이 실현될 날도 머지않을 것이다.",
+            "eng_sentence1": "① The day will come soon when my dream will come true.",
+            "eng_sentence2": "② It will not be long before my dream comes true.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "날씨가 점점 따뜻해진다. 머지않아 벚꽃이 피기 시작할 것이다.",
+            "eng_sentence1": "It is getting warmer and warmer. It will not be long before the cherry blossoms begin to bloom.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "보통 사람들이 달로 여행하는 날은 아직 멀었어요.",
+            "eng_sentence1": "It will be a very long time before common people make a trip to the moon.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "…할 때까지는 ~이 걸릴 것이다",
+        "eng_expression": "It will be ~ before…",
+        "example": "<i>It will be</i> five years <i>before</i> we meet again.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그가 건강해지기까지는 얼마간 시간이 걸릴 것이다.",
+            "eng_sentence1": "It will be some time before he gets well.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "10분을 걸어야 우리는 그 집에 도착할 것이다.",
+            "eng_sentence1": "① It will be ten minutes’ walk before we get to the house.",
+            "eng_sentence2": "② It will take ten minutes for us to walk to the house.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "수개월 후에야 그들은 결혼했다.",
+            "eng_sentence1": "① It was several months before they got married.",
+            "eng_sentence2": "② They got married several months later.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "금번 세계일주 여행을 하는 데 꼬박 한 달이 걸렸고 경비는 약 10,000달러가 들었다. 혼자만의 여행이 나에겐 이상적인 휴가였고, 그것은 내게 나 자신을 조용히 성찰해 볼 수 있는 기회를 제공해 주었다.",
+        "eng_sentence1": "It took fully one month for me to take a trip around the world, and it cost about $10,000. Traveling alone was the ideal vacation for me, as it provided me with a chance to reflect on myself.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "우리 대학이 설립된 지 30년이 되었다. 그 동안 많은 인재를 각계각층에 배출했고, 특히 적지 않은 졸업생들이 실업계에서 활약하고 있다.",
+        "eng_sentence1": "<b>It is thirty years</b>(= Thirty years have passed) since our university was established. During that time, she has sent out a number of <b>able men</b>(= capable men) into every walk of life, particularly graduates that are currently active in business circles.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "미국은 북한이 정치적 변화를 꾀하고 나서야 비로소 제재를 풀 것이다. 북한은 서방 국가들과의 관계를 증진시키기 위해 계속 솔선수범할 것을 분명히 하고 있다.",
+        "eng_sentence1": "The U.S. will not lift its sanctions until North Korea affects political changes. North Korea has made it clear that it will continue its initiatives to improve relations with western nations.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "지난 30년 간 의학은 괄목할 만하게 발전했다. 따라서 지금까지 인간이 불가능하게 여겨왔던 암 정복도 머지않아 실현될 수 있을 것이다.",
+        "eng_sentence1": "Medical science has advanced remarkably over the past 30 years. Consequently, it will not be long before man is able to conquer cancer, a challenge that he has thus far considered impossible.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "간밤에 타이완에서 대지진이 발생했다. 정확한 사망자와 실종자 수는 몇 시간이 지나봐야 알 수 있을 것이다.",
+        "eng_sentence1": "<b>A big earthquake shook Taiwan last night.</b>(= There happened a big earthquake in Taiwan last night.) It will be several hours before we know the exact number of people killed and how many are missing.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 4,
+    "lesson": "Lesson4",
+    "lesson_title": "부사절과 형용사절",
+    "expression_list": [
+      {
+        "kor_expression": "~하자마자",
+        "eng_expression": "on -ing; as soon as ~; directly ~; the moment ~; immediately ~",
+        "example": "<i>On graduating</i> from school, he went into business.<br>= <i>As soon as he graduated</i> from school, he went into business.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그가 집에 도착하자마자 천둥이 치기 시작했다.",
+            "eng_sentence1": "① As soon as he arrived home, it began to thunder.",
+            "eng_sentence2": "② It began to thunder as he arrived home.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "나를 본 순간 그는 얼굴이 창백해졌다.",
+            "eng_sentence1": "① The moment he saw me, he turned pale.",
+            "eng_sentence2": "② When he saw me, he turned white.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "방에 들어가자마자 그는 코트를 벗었다.",
+            "eng_sentence1": "① As soon as he entered the room, he took off his coat.",
+            "eng_sentence2": "② The instant he entered the room, he took off his coat.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "경주역에 도착하자마자 우리는 버스를 타고 시내의 유명한 명승지를 몇 군데 방문했다.",
+            "eng_sentence1": "After arriving at Gyongju Station, we visited several famous historic sites in the city <b>on a bus</b>(= by bus).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하기가 무섭게 …하다",
+        "eng_expression": "hardly ~ when…; scarcely ~ before…; no sooner ~ than…",
+        "example": "<i>Hardly</i> had he gone to bed <i>when</i> he began to snore.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그가 집을 나서기가 무섭게 비가 거세게 내리기 시작했다.",
+            "eng_sentence1": "He had hardly left home when it began to rain hard.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "도망치기가 무섭게 그녀는 또 붙잡혔다.",
+            "eng_sentence1": "She had scarcely escaped before she was caught again.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 학교에서 돌아오기가 무섭게 노래방에 갔다.",
+            "eng_sentence1": "No sooner had he <b>returned</b>(= come back) from school that he went to a karaoke bar.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "피아니스트가 연주를 끝내기가 무섭게 청중은 박수를 보냈다.",
+            "eng_sentence1": "① The audience clapped when the pianist finished his performance.",
+            "eng_sentence2": "② No sooner had the pianist finished his performance than the audience <b>applauded ardently</b>(= gave him a big hand).",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하는 한",
+        "eng_expression": "as[so] long as ~; while ~",
+        "example": "I will work <i>as long as</i> I am in good health.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "재미있다면 어떤 책이라도 좋다.",
+            "eng_sentence1": "Any book will do <b>so long as</b>(= if only) it is interesting.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "내가 살아있는 한 가족들을 궁색하게 하지는 않겠다.",
+            "eng_sentence1": "My family shall want for nothing as long as I live.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "책을 깨끗하게 쓴다면야 빌려줄 수도 있지.",
+            "eng_sentence1": "① I can lend the book to you as long as you keep it clean.",
+            "eng_sentence2": "② You may borrow the book as long as you keep it clean.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "10시 전에 돌아오겠다고 약속한다면 외출해도 좋다.",
+            "eng_sentence1": "You can go out <b>so long as</b>(= as long as/if and when) you promise to be back before 10 o’clock.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "알아차리기 전에, 어느새",
+        "eng_expression": "before one is aware of it; all too soon",
+        "example": "It has got dark <i>before I was aware of it.</i>",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "오랜 휴가도 어느새 다 지났다.",
+            "eng_sentence1": "Our long vacation has passed before we were aware of it.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "어느새[금방] 어두워질 거야.",
+            "eng_sentence1": "It will become dark before we know it.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "어느덧 백합이 피었다.",
+            "eng_sentence1": "Lilies have bloomed before we were aware of it.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하는 때[날]",
+        "eng_expression": "the time[day] when ~",
+        "example": "His father died on <i>the day when</i> he went home.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "컴퓨터란 것이 아주 희귀한 시대도 있었다.",
+            "eng_sentence1": "There was a time when computers were very rare.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "언제든지 편리할 때 오십시오.",
+            "eng_sentence1": "You may come whenever it is convenient for you.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "사람들이 과학에 관한 지식이 거의 없던 시절에는 지구가 둥글다는 사실을 아는 사람이 거의 없었다.",
+            "eng_sentence1": "In the days when people had little knowledge of science, few people knew the fact that the earth is round.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "스포츠를 단순한 오락이나 기분전환으로 생각하는 시대는 지났다고 생각합니다.",
+            "eng_sentence1": "I think the days have gone when sports were regarded as mere pastimes and recreations.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "팬들은 유명인을 보자마자 사인을 청하는 경향이 있다.",
+        "eng_sentence1": "<b>As soon as</b>(= The moment) fans encounter a celebrity, they tend to ask for his autograph.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "대통령이 의회에서 연설을 마치기가 무섭게 의원들은 기립박수를 보냈다.",
+        "eng_sentence1": "No sooner had the President finished his speech before congress than they gave him a standing ovation.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "버스와 지하철이 좀더 빠르고 좀더 안락한 서비스를 제공하기만 한다면, 점점 더 많은 사람들이 비교적 비싸지 않은 대중 교통을 애용할 것이다.",
+        "eng_sentence1": "<b>So long as</b>(= If only/If and when) buses and subway trains offer faster and more comfortable service, <b>more and more people</b>(= an increasing number of people) will patronize these relatively inexpensive public transportation systems.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "전문가들의 말에 의하면 이 끊임없이 변화하는 사회에 살고 있는 한 우리는 스트레스를 피할 수 없다. 그래서 많은 사람들은 흡연 습관에 빠지기 쉽고 어느새 흡연은 건강을 심각하게 해칠 수 있다.",
+        "eng_sentence1": "Experts say we can’t avoid stress as long as we live in this ever-changing society. So many people <b>are apt to</b>(= are liable to) fall into the habit of smoking, a practice that can seriously damage their health <b>before they become aware of it</b>(= before they know it).",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "시드니 올림픽에서 한국의 여자 양궁 선수가 금메달을 땄을 때 저는 가슴이 뭉클했습니다. 정말 감동적이었어요.",
+        "eng_sentence1": "I had a lump in my throat when the Korean archeress won the gold medal in Sydney Olympics. That was quite moving.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 5,
+    "lesson": "Lesson5",
+    "lesson_title": "여러 가지 시간 표현",
+    "expression_list": [
+      {
+        "kor_expression": "~ 시간에 대다",
+        "eng_expression": "be in time for ~",
+        "example": "He hurried to the station to <i>be in time for</i> the last train.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그들은 09시 30분발 급행열차를 가까스로 탔다.",
+            "eng_sentence1": "They were just in time for the 09 : 30 express.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "나는 결혼식 시간에 겨우 맞춰 도착하였다.",
+            "eng_sentence1": "I arrived just in time for the wedding ceremony.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "지하철로 가시면 당신은 그를 만나기로 한 시간에 가까스로 도착할 수 있을 것입니다.",
+            "eng_sentence1": "If you go by subway, you will be just in time to meet him.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "이제는 ~ 않다",
+        "eng_expression": "no longer = not ~ any longer",
+        "example": "A space travel is <i>no longer</i> a fantastic dream.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "이제는 의심할 여지가 없다.",
+            "eng_sentence1": "① There is no room for doubt now.",
+            "eng_sentence2": "② There is no longer doubt.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "추가 일꾼들은 더 이상 필요치 않을 것입니다.",
+            "eng_sentence1": "The extra workers won’t be needed any longer.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "나는 오랜만에 치과에 갔다. 치아 문제에 관한 한, 심각한 문제로 발전되기 전에는 어떤 통증도 느끼지 못한다. 그러면 치료하기에 너무 늦어버린다. 처음으로 나는 정기 검진이 문제 치아의 지독한 고통에서 벗어날 수 있는 유일한 길이라는 것을 알았다. 나는 6개월마다 치과에 가기로 결심했다.",
+        "eng_sentence1": "I went to a dentist’s office after a long time. When it comes to dental problems, we don’t feel any pain until a serious problem develops. Then it is too late to cure it. For the first time, I realized that a regular checkup is the only way to be free from the dreadful pain of problem teeth. I made up my mind to visit a dental clinic every six months.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "장티푸스가 남부 지역에서 5년 만에 발생했다. 그 질병의 초기 증세는 고열이다. 지저분한 음식이나 물에 들어 있는 박테리아에 의해 발생되는 이 질병은 전염성이 높다.",
+        "eng_sentence1": "Typhoid broke out in the South in 5 years. An early symptom of the disease is a very high <b>temperature</b>(= fever). This disease, (which is) caused by bacteria in dirty food or water, is highly <b>contagious</b>(= infectious).",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "운전면허증을 따고 난 후 나는 처음으로 도로에서 차를 몰았다. 나는 도심의 교통 체증으로 한 시간 동안 꼼짝도 할 수 없었다. 그러나 가까스로 약속 시간에 댈 수 있었다.",
+        "eng_sentence1": "After getting my driver’s license I actually drove a car on the road by myself for the first time. I got stuck in a traffic <b>jam</b>(= congestion) downtown for an hour, but was just in time for my appointment.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "술고래란 매우 빈번하게 많은 양의 알코올을 마시고 그 습관을 버리지 못하는 사람이다. 존슨 씨는 정말 술고래였다. 그러나 이제 그는 더 이상 술을 마실 수가 없다. 위암으로 고생하고 있기 때문이다.",
+        "eng_sentence1": "A drunkard is a man who drinks large amount of alcohol very frequently and can’t give up the habit of drinking. Actually <b>Mr. Johnson drank like a fish</b>(= Mr. Johnson was a heavy drinker), but <b>he can’t drink any longer</b>(= he can no longer drink). Because he is suffering from stomach cancer.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "양 팀은 후반전에서도 막상막하였다. 그래서 막 연장전으로 들어가려 했다. 흥분한 수만 관중들은 축구 경기를 지켜보고 있었지만, 선수들과 코치들은 중압감에 시달리고 있었다. 결승전은 모레 열릴 예정이다.",
+        "eng_sentence1": "The two teams were neck and neck even in the <b>latter</b>(= second) half of the game. Consequently, they were about to advance into the extended game. Tens of thousands of excited spectators were watching the soccer game, but the players and the coaches were under heavy stress. The final game is to be held the day after tomorrow.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 6,
+    "lesson": "Lesson6",
+    "lesson_title": "명사절",
+    "expression_list": [
+      {
+        "kor_expression": "~라는 사실",
+        "eng_expression": "The fact that ~",
+        "example": "You must be aware of <i>the fact that</i> he is very poor.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그가 정직하다는 사실은 누구에게나 알려져 있다.",
+            "eng_sentence1": "The fact that he is honest is known to everybody.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 회복하리라는 희망은 극히 희박했다.",
+            "eng_sentence1": "① There was a slim <b>chance</b>(= hope/possibility) that he would recover.",
+            "eng_sentence2": "② There was little chance that he would recover.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그가 자네 매부라는 사실이 자네의 결정에 영향을 줄 순 없다.",
+            "eng_sentence1": "The fact that he is your brother-in-law should not affect your decision.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "문제는[난처한 것은/사실은] ~이다",
+        "eng_expression": "The question[trouble/fact] is that ~",
+        "example": "<i>The trouble is that</i> they don’t cooperate with us.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "문제는 내가 해외로 나가야 하느냐 여기에 있어야 하느냐이다.",
+            "eng_sentence1": "The question is whether I should go abroad or stay here.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "난처한 것은 그가 스페인어를 한마디도 못한다는 것이다.",
+            "eng_sentence1": "The trouble is that he cannot speak a single word of Spanish.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "중요한 것은 그것을 어떻게 수행하느냐이다.",
+            "eng_sentence1": "① The important thing is how we can carry it out.",
+            "eng_sentence2": "② What is important is how to carry it out.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~일까",
+        "eng_expression": "I wonder＋의문사＋S＋V/I wonder if[whether]＋S＋V",
+        "example": "<i>I wonder if</i> she knows we are here.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그가 돌아올까?",
+            "eng_sentence1": "I wonder if he will come back.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 다리의 길이가 얼마나 될까?",
+            "eng_sentence1": "I wonder how long this bridge is.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 지금 어디서 무엇을 하고 있을까?",
+            "eng_sentence1": "I wonder where he is and what he is doing now.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "물 한잔 얻어 마셔도 될까요?",
+            "eng_sentence1": "I wonder if I <b>might</b>(= could) trouble you for a glass of water?",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "과연 ~이긴 하지만 …",
+        "eng_expression": "It is true that ~, but…; indeed ~, but…; To be sure, ~, but…",
+        "example": "<i>It is true that</i> this novel is interesting, <i>but</i> it is not instructive.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그는 영리하기는 하나 인내심이 부족한 듯하다.",
+            "eng_sentence1": "It is true that he is clever, but he seems to be impatient.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 가난하기는 하나 정직하다.",
+            "eng_sentence1": "① Indeed, he is poor, but he is honest.",
+            "eng_sentence2": "② He may be poor, but he is honest.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "참 좋은 생각이기는 하나 어떻게 실행하느냐가 문제다.",
+            "eng_sentence1": "To be sure, it is a good idea, but the question is how to carry it out.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "사실 그녀는 요리에 대해 많이 알고는 있지만, 솜씨는 별로다.",
+            "eng_sentence1": "It is true that she knows a lot about cooking, but <b>she is not much of a cook</b>(= she is a bad cook).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "젊은 흡연자들의 수가 급속히 증가하고 있다. 일부 젊은이들은 호기심에, 또 다른 젊은이들은 어른들의 습관을 맹목적으로 흉내내고 있다. 문제는 중독된 습관들이 너무 강해 하룻밤 사이에 고칠 수가 없다는 것이다.",
+        "eng_sentence1": "The number of young smokers is rapidly increasing. Some kids are just curious, while others blindly imitate adult habits. The problem is that addictive habits are often too strong to break overnight.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "건강을 유지하기 위해서는 예방이 최선의 선택이며 정기 검진이 우선책이다. 가장 중요한 것은 어떤 상황에서도 의사를 믿는 것이다. 우리 몸이 너무 복잡해서 어떤 사람도 이해할 수 없다고 가정하여 의사들을 믿지 못하는 사람들이 많다. 그래서 그들은 자연적 치유에 매달리는 경향이 있다.",
+        "eng_sentence1": "In order to stay healthy, prevention is the best option and a regular checkup is the first step. The most important thing to do for us is to trust our doctor under any circumstances. There are many people who have no faith in doctors, under the assumption that our body is too complex for any human being to understand and, as consequence they tend to rely on natural healing.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "많은 정부가 담배 판매로 생기는 수입에 상당히 의존하고 있다. 그래서 그들은 건강 문제와 관련된 담배를 마지못해 적극적으로 단속하고 있다. 나는 만약 정부가 흡연 구역을 제한하고 담배 광고도 금지하거나 제한하며, 담배 갑에 건강을 해친다는 어두운 경고문을 싣는다면 어떻게 될지 궁금하다.",
+        "eng_sentence1": "Many governments rely heavily on income generated by cigarette sales, so much so that they are reluctant to crack down cigarette related health issues aggressively. I wonder what would happen if governments restricted smoking to certain areas, banned or limited tobacco ads and put ominous health warnings on cigarette packages.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "컴퓨터가 통신과 사업을 더 빠르고 더 편리하게 해 온 것은 사실이다. 그러나 개인용 컴퓨터의 발명이 가져올 예기치 않은 결과가 무엇이 될지는 기다려 봐야 알 것이다.",
+        "eng_sentence1": "It is true that computers have made communicating and doing business faster and more convenient, but we will have to wait and see what the unexpected consequences of the invention of personal computers will be.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "오늘날 사람들은 자동차를 더 이상 사치스런 물건으로 간주하지 않는 것 같다. 결과적으로 자동차는 대부분의 사람들에게 필수품이 되었다. 따라서, 소형차가 보험 및 마일리지, 세금 면에서 많은 경비상 이점을 제공해 준다는 생각이 떠올랐다.",
+        "eng_sentence1": "It <b>seems</b>(= appears) that people today no longer regard cars as luxury goods. It follows that cars have become a must for most people. Therefore, it occurred to me that <b>small</b>(= compact) cars provide many cost advantages in terms of insurance, mileage, and taxes.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 7,
+    "lesson": "Lesson7",
+    "lesson_title": "부사절Ⅰ",
+    "expression_list": [
+      {
+        "kor_expression": "~하는 한",
+        "eng_expression": "as far as ~; so far as ~",
+        "example": "<i>As far as</i> I know, he is a reliable man.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "재미가 있는 한, 어떤 잡지도 좋습니다.",
+            "eng_sentence1": "Any magazine will do, <b>so far as</b>(= so long as) it is interesting.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "나에 관한 한 그것과는 아무 관계도 없다.",
+            "eng_sentence1": "① As far as I am concerned, I have nothing to do with that matter.",
+            "eng_sentence2": "② As for me, I have no connection with that matter.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "내가 아는 한 영어에 그런 말은 없다.",
+            "eng_sentence1": "① So far as I know, there is no such a word in English.",
+            "eng_sentence2": "② To the best of my knowledge, there is no such word in English.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하지 않으면",
+        "eng_expression": "unless ~; if ~ not",
+        "example": "<i>Unless</i> the doctors operate immediately, she will die.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "한번 고생을 겪지 않으면 즐거움의 맛을 모른다.",
+            "eng_sentence1": "One cannot <b>taste</b>(= appreciate) pleasure unless one has once experienced trouble and pain.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "더 빨리 걷지 않으면 버스를 놓칠라.",
+            "eng_sentence1": "You will miss the bus <b>unless you walk</b>(= if you don’t walk) more quickly.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "기독교가 무엇인지 이해를 못하면 서양 문명의 일면을 알기란 힘들다.",
+            "eng_sentence1": "Unless you <b>understand</b>(= comprehend) what Christianity is, it is difficult for you to recognize one aspect of Western civilization.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "비록 ~일지라도",
+        "eng_expression": "명사[형용사]＋as＋S＋V ~= though＋S＋V ~ = though＋S＋V＋관사＋명사[형용사]",
+        "example": "<i>Young as he was</i>, he passed with flying colors.<br>= <i>Though he was a young boy</i>, he passed triumphantly.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "아무리 훌륭한 학자라 하더라도, 그가 모든 것을 다 아는 것은 아니다.",
+            "eng_sentence1": "① Although he is a great scholar, he does not know everything.",
+            "eng_sentence2": "② Great scholar as he is, he does not know everything.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "비록 피곤했지만 그는 그녀를 집까지 태워다 주겠다고 했다.",
+            "eng_sentence1": "Tired as he was, he offered to drive her home.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 서울에서 바쁘게 살지만, 한 달에 한 번씩 반드시 고향의 부모님께 편지를 쓴다.",
+            "eng_sentence1": "<b>Although</b>(= Though) he lives a busy life in Seoul, he never fails to write to his parents of home once a month.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "용감한 그였지만 그 광경을 보고 눈물을 흘리지 않을 수 없었다.",
+            "eng_sentence1": "① Brave as he was, he could not help weeping at the sight.",
+            "eng_sentence2": "② <b>Although</b>(= Though) he was a brave man, he could not but weep at the sight.",
+            "eng_sentence3": "③ Brave man as he was, he could not help weeping at the sight.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "일단 담배 피우는 습관이 생기면 좀처럼 끊지 못한다. 건강이 돈보다 더 중요하다는 것을 생각할 때마다 나는 심기일전하려고 결심한다.",
+        "eng_sentence1": "Once you <b>form</b>(= acquire/fall into/get into) the habit of smoking, you cannot break it easily. Whenever I think that health is more important than wealth, I make up my mind to turn over a new leaf.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "지구 온난화에 관한 한, 그것은 이산화탄소 배출과 직접 관계가 있다고 한다. 이제 환경 문제들이 우리가 걱정할 만큼 무척 심각하기 때문에 어떻게 그것들을 줄이고 효과적으로 극복할[대처할] 수 있을까 하는 것이 중요한 것이다.",
+        "eng_sentence1": "As far as global warming is concerned, it is said that it is directly related to carbon dioxide emissions. Since the current environmental problems are serious enough for us to worry about, what matters is how to reduce them and how to cope with them effectively.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "언론의 자유가 보장되지 않는 한, 진정한 사회 진보란 있을 수 없다. 사람들이 신문과 잡지가 사실에 근거한다고 생각하는 경향이 있기 때문에 그들이 믿을만한 것처럼 보인다. 그러나 그것이 항상 진실한 것은 아니다. 발행인들은 기사를 종종 왜곡 보도하기도 한다.",
+        "eng_sentence1": "No sincere social progress is possible unless freedom of speech is secured. Newspapers and magazines seem reliable because people tend to think they are based upon fact. However that is not always true. Publishers often slant their coverage.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "신부나 스님이나 수녀들은 세속적인 열정[욕심]을 삼가함으로써 행복해지고자 노력하는 사람들의 두드러진 표본이다. 그들은 어디를 가거나, 자신들의 삶이 아무리 어렵더라도, 정치적 흥망성쇠나 경제적 상황에 좌우되지 않는다.",
+        "eng_sentence1": "Priests, monks and nuns are outstanding examples of those who try to be happy by refraining from worldly passions. <b>Wherever</b>(= No matter where) they go, or however hard their lives may be, they are not at the mercy of political ups and downs or any economic situations.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "그는 예사로 거짓말을 한다. 그녀는 동정을 표하려고 했지만 뭐라고 말해야 좋을지 몰랐다. 그는 거짓말을 하는 데 양심의 가책조차 느끼지 않았다.",
+        "eng_sentence1": "He has no bones <b>of</b>(= about) telling lies. Even though she felt sympathy for him, she didn’t know what to say. He had absolutely no qualms of conscience about telling a lie.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 8,
+    "lesson": "Lesson8",
+    "lesson_title": "부사절Ⅱ",
+    "expression_list": [
+      {
+        "kor_expression": "A가 ~하도록",
+        "eng_expression": "that A may ~; in order that A may ~; so that A may ~",
+        "example": "He is working hard <i>so that</i> his large family <i>may</i> live in comfort.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그는 노후에 편히 살려고 열심히 일하고 있다.",
+            "eng_sentence1": "He is working hard so that he may live in comfort <b>in his old age</b>(= when he grows old).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 기차 시간에 대기 위해 즉시 집을 나섰다.",
+            "eng_sentence1": "He left home at once (so) that he might be in time for the train.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 한마디도 놓치지 않기 위해 귀를 기울였다.",
+            "eng_sentence1": "He listened attentively in order that he might not miss a single word.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "관광객들이 버스로 산 정상까지 오를 수 있도록 지금 넓은 도로를 건설 중에 있다.",
+            "eng_sentence1": "A wide road is now under construction so that tourists may get to the top of the mountain by bus.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~인 것처럼",
+        "eng_expression": "as ~, so…",
+        "example": "<i>As</i> you treat me, <i>so</i> I will treat you.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "녹이 철을 부식시키는 것처럼 근심은 마음을 좀먹는다.",
+            "eng_sentence1": "① Just as rust eats iron, so too does care eat the heart.",
+            "eng_sentence2": "② Just as rust eats into iron, so care eats into the heart.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "사막이 바다라면 낙타는 배이다.",
+            "eng_sentence1": "① Just as the desert is like a sea, so too is the camel like a ship.",
+            "eng_sentence2": "② The desert is to a sea what the camel is to a ship.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "너무 ~해서 …이다",
+        "eng_expression": "so ~ that…; so that; such ~ that…",
+        "example": "The street is <i>so</i> dusty <i>tha</i>t we cannot walk with our eyes open on a windy day.<br>¶ She spoke in <i>such</i> a low voice <i>that</i> I could not hear her.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "너무 무더워서 집안에 있을 수가 없다.",
+            "eng_sentence1": "It is so sultry that I cannot <b>remain</b>(= keep) indoors.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "나는 너무 피곤해서 말하고 싶지도 않다.",
+            "eng_sentence1": "I am so tired that I don’t feel like speaking.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "버스가 너무 붐벼서 학교까지 줄곧 서서 갔다.",
+            "eng_sentence1": "① The bus was so crowded that I kept standing all the way to the school.",
+            "eng_sentence2": "② The bus was so crowded that I had to stand all the way to the school.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그녀는 일을 매우 빨리 하기 때문에 사무실의 어느 누구도 그녀를 따라잡을 수 없다.",
+            "eng_sentence1": "① She works so fast that no one in the office can keep up with her.",
+            "eng_sentence2": "② She is such a fast worker that no one in the office can catch up with her.",
+            "eng_sentence3": "③ She is so fast a worker that nobody in the office overtake her.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그는 매우 현명한 사람인지라 모두 그를 존경한다.",
+            "eng_sentence1": "① He is so wise a man that everybody respects him.",
+            "eng_sentence2": "② He is such a wise man that everybody looks up to him.",
+            "eng_sentence3": "③ He is very wise, so that everybody respects him.",
+            "eng_sentence4": "④ He is quite a wise man, so everybody looks up to him.",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "지붕이 내려앉아서 그 오두막은 살기에 적합하지 않았다.",
+            "eng_sentence1": "① The roof had fallen in, which meant that the cottage was not habitable.",
+            "eng_sentence2": "② The cottage was not suitable for living because its roof had fallen in.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~한 경우에는",
+        "eng_expression": "in case ~; in case that ~",
+        "example": "<i>In case</i> I’m late, start without me.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "혹시 내가 잊어버리는 경우엔, 약속 시간을 일깨워 주세요.",
+            "eng_sentence1": "In case I forget the appointed time, please remind me.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이번 입학 시험에 떨어지면 내년에 다시 한번 치겠다.",
+            "eng_sentence1": "If I fail the entrance examination this time, I will try again next year.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "의논하고 싶은 중요한 문제가 있을 경우엔, 찾아 뵙겠습니다.",
+            "eng_sentence1": "① In case there is an important matter I need to talk to you about, I will call on you.",
+            "eng_sentence2": "② In case there happens an important matter I need to discuss with you, I will visit you.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "나는 그의 자존심을 상하게 할까봐 그가 한 일을 감히 너에게 말할 수 없다. 실은 그는 양다리를 걸치고 있었다.",
+        "eng_sentence1": "I dare not tell you what he did <b>lest I should</b>(= for fear that I should) hurt his pride. In fact, he was sitting on the fence.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "일자리와 교육의 기회가 사람들을 도시로 끌어들이는 주요 요소들이 되고 있음은 명백하다. 도시의 새로운 환경에 적응할 수 있도록 노력은 하되, 도시 생활의 쾌락에 유혹되지 않도록 경계하지 않으면 안 된다.",
+        "eng_sentence1": "It is <b>obvious</b>(= clear/certain/plain/true) that jobs and educational opportunities are major factors that attract people to cities. You must try to <b>adjust</b>(= adapt) yourself to the new <b>environment</b>(= surroundings) of the city, but you must also be on the alert so that you will not be tempted by pleasures of <b>city life</b>(= urban life).",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "프랑스인들이 자기네 포도주를 사랑하는 것처럼 영국인들은 자기네 맥주를 사랑한다.",
+        "eng_sentence1": "<b>Just as</b>(= As) the French love their wine, so the English love their beer.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "못된 친구들의 유혹에 빠져 그는 악의 길로 들어섰다. 그는 너무 어린애 같아서 유혹을 물리칠 수 없었다.",
+        "eng_sentence1": "Bad companions tempted him into wrong ways. He was so childish that he couldn’t resist temptation.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "긴급사태 시에는 경보기를 울리고, 주저 없이 저에게 연락해 주십시오.",
+        "eng_sentence1": "<b>In case of a sudden emergency</b>(= In case of an emergency), sound the alarm and get in touch with me without hesitation.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 9,
+    "lesson": "Lesson9",
+    "lesson_title": "to부정사 활용Ⅰ",
+    "expression_list": [
+      {
+        "kor_expression": "너무 ~해서 …할 수 없다",
+        "eng_expression": "too ~ to…",
+        "example": "He is <i>too</i> young <i>to</i> know much of the world.<br>= He is so young that he is ignorant of the world.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "이 카메라는 너무 비싸서 못 사겠다.",
+            "eng_sentence1": "① This camera is too expensive for me to buy.",
+            "eng_sentence2": "② This camera is so expensive that I can’t buy it.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그 광경은 너무 아름다워서 아무도 묘사할 수가 없었다.",
+            "eng_sentence1": "① The scenery was too beautiful for anybody to describe.",
+            "eng_sentence2": "② The scenery was so beautiful that nobody could describe it.",
+            "eng_sentence3": "③ The beauty of the scenery was beyond description.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "아무리 ~해도 지나칠 것은 없다",
+        "eng_expression": "cannot… too ~; it is impossible to＋ over(＋동사원형); it is impossible for A to부정사＋too much",
+        "example": "We <i>cannot</i> be <i>too</i> careful in doing anything.<br>= <i>It is impossible</i> for us to be careful <i>too much</i> in doing anything.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "책을 선택하는 데는 아무리 주의해도 지나칠 게 없다.",
+            "eng_sentence1": "① We cannot be too careful <b>in the choice of books</b>(= in choosing books).",
+            "eng_sentence2": "② It is impossible for us to be careful in choosing books <b>too much</b>(= enough).",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그녀의 행위는 아무리 혹평을 해도 지나칠 것이 없다.",
+            "eng_sentence1": "① We cannot criticize her conduct too <b>severely</b>(= harshly).",
+            "eng_sentence2": "② Her conduct cannot be overcriticized (by us).",
+            "eng_sentence3": "③ It is impossible for us to criticize her conduct too <b>severely</b>(= too much).",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하기만 하면 된다",
+        "eng_expression": "have only to ~; all A have to do is to ~",
+        "example": "You <i>have only to</i> act upon his advice.<br>= <i>All</i> you <i>have to do is to</i> act upon his advice.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "자네가 이 병을 고치려면 담배를 끊기만 하면 되네.",
+            "eng_sentence1": "You have only to give up smoking to cure this disease.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "너는 그를 만나서 이 서류를 건네주기만 하면 된다.",
+            "eng_sentence1": "① You only have to hand this document over to him.",
+            "eng_sentence2": "② All you have to do is to hand this document over to him.",
+            "eng_sentence3": "③ You need only to hand this document over to him.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "이 기계를 작동시키려면 단추 하나만 누르면 된다.",
+            "eng_sentence1": "① You have only to push a button to set this machine in motion.",
+            "eng_sentence2": "② You have only to push a button to work this machine.",
+            "eng_sentence3": "③ You have only to push a button to make this machine operate.",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "꼭 ~하다",
+        "eng_expression": "be sure to ~; be certain to ~; be bound to ~",
+        "example": "<i>Be sure to</i> take your sister next time.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그는 틀림없이 언론계에서 명성을 날릴 것이다.",
+            "eng_sentence1": "① He is sure to make himself famous in press circles.",
+            "eng_sentence2": "② He is certain to <b>earn</b>(= win) fame in press circles.",
+            "eng_sentence3": "③ He will certainly earn fame in press circles.",
+            "eng_sentence4": "④ He will never fail to earn fame in press circles.",
+            "eng_sentence5": "⑤ He is bound to make his mark in newspaper circles.",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "틀림없이 ~한다",
+        "eng_expression": "never fail to＋동사원형",
+        "example": "He <i>never fails to</i> keep his word.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "그는 여행할 때는 어김없이 그림엽서를 보내온다.",
+            "eng_sentence1": "① He never fails to send me a picture postcard whenever he makes a journey.",
+            "eng_sentence2": "② He cannot make a journey without sending me a picture postcard.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "그들은 등산을 장려하기 위하여 산에 산장을 지었다. 어쨌든, 등산할 때는 길을 잃지 않도록 지도와 나침반을 가지고 가는 것이 상책이다.",
+        "eng_sentence1": "① They built refuges in mountains to encourage mountaineering. Nonetheless, you had best carry a map and a compass <b>lest you should</b>(= for fear that you should/so that you do not) lose your way when you go mountaineering.",
+        "eng_sentence2": "② They built refuges in mountains to encourage mountaineering. Nonetheless, you had best take a map and compass with you <b>in order not to</b>(= so as not to/not to) lose your way when you go climbing.",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "흡연은 태어나지 않은(태내에 있는) 아기에게 유해한 영향을 끼칠 수 있기 때문에 여성은 임신했을 때 흡연을 삼가해야만 한다. 그러나 문제는 중독된 습관이 너무 강해 하룻밤 새에 근절되지 않는다는 것이다.",
+        "eng_sentence1": "Since smoking may harmfully affect unborn babies, women should refrain from smoking when they are pregnant. However, the bottom line is that addictive habits are too strong to be ended overnight.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "부천 가스 충전소 폭발사고가 발생한 지 채 한 달도 되기 전에 또 다른 폭발사고가 전북 익산에서 발생했는데 하마터면 대형사고로 이어질 뻔했다. 그러므로 안전 교육은 아무리 강조해도 지나친 법이 없다.",
+        "eng_sentence1": "In less than a month after the explosion of a gas refill center in Bucheon, another gas explosion accident occurred at Iksan in the North Cholla province and it almost led to a major disaster. <b>Therefore, safety training cannot be overemphasized</b>(= Therefore, safety training cannot be emphasized too much/ It is impossible for us to overemphasize safety training/We cannot overemphasize safety training/It is impossible for us to emphasize safety training too much).",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "나는 갈비 만드는 방법에 대해 전혀 알지 못한다. 하지만 요리책대로 하기만 하면 된다.",
+        "eng_sentence1": "I don’t have the <b>vaguest</b>(= faintest/slightest) idea as to how I make galbi. <b>All I do is go by the cook book</b>(= But all I have to do is to go by the cook book).",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "만족스럽지 않으시다면 영수증을 잘 보관하셨다가 10일 내에 바꾸러 오십시오. 틀림없이 교환 또는 환불해 줄 것입니다.",
+        "eng_sentence1": "Be sure to keep your receipt and return it within ten days if you are unhappy. They will never fail to exchange it or give you a refund.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  },
+  {
+    "seq": 10,
+    "lesson": "Lesson10",
+    "lesson_title": "to부정사 활용Ⅱ",
+    "expression_list": [
+      {
+        "kor_expression": "어쩔 수 없이[부득이] ~하다",
+        "eng_expression": "be forced to ~; be compelled to ~; be constrained to ~; be obliged to ~; have to",
+        "example": "As a result of falling profits, we <i>were obliged to</i> close the factory.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "연락선 운행이 일시 중단되는 바람에 우리는 2~3일 정도 더 그 섬에 머물러야 했다.",
+            "eng_sentence1": "As the ferry-boat service was suspended, we were compelled to stay in the island for a few more days.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "폭우 때문에 우리는 어쩔 수 없이 출발을 연기했다.",
+            "eng_sentence1": "We <b>were obliged to</b>(= were forced to/were compelled to) <b>postpone</b>(= put off) our departure <b>because of</b>(= due to/on account of/owing to) the heavy rains.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "세계화 시대에 우리는 외국어를 공부하지 않을 수 없다.",
+            "eng_sentence1": "① In the age of globalization, we have no choice but to learn foreign languages.",
+            "eng_sentence2": "② In the age of globalization, we cannot help <b>learning</b>(= studying) foreign languages.",
+            "eng_sentence3": "③ In the age of globalization, we cannot but study foreign languages.",
+            "eng_sentence4": "④ In the age of globalization, we have to study foreign languages.",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하는 경향이 있다",
+        "eng_expression": "be apt to ~; be liable to ~; be inclined to ~; tend to ~; have a tendency to ~",
+        "example": "We <i>are all apt to</i> waste our time in whatever we may do.<br>¶ He <i>is liable to</i> lose his temper.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "아이들은 해서는 안 되는 일을 하는 경향이 있다.",
+            "eng_sentence1": "Children <b>are apt to</b>(= are liable to) do what they ought not to do.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "감기에 걸리기 쉬운 사람은 피부를 튼튼히 해야 한다.",
+            "eng_sentence1": "Those who <b>are liable to</b>(= are inclined to/are prone to) catch cold must harden their skin.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "사람은 흔히 남의 행복을 시기하는 경향이 있다.",
+            "eng_sentence1": "One <b>is liable to</b>(= is apt to/is prone to/is inclined to) envy other people’s happiness.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "젊은이들은 부모에 의지해 살면 돈을 낭비하는 경향이 있다.",
+            "eng_sentence1": "Young people <b>tend to</b>(= have a tendency to/are inclined to) waste money while they <b>are dependent upon</b>(= depend on) their parents.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "일부 직원들이 월요일엔 사무실에 늦게 도착하는 경향이 있다.",
+            "eng_sentence1": "Some members of staff <b>are likely to</b>(= tend to/have a tendency to) come into the office late on Mondays.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      },
+      {
+        "kor_expression": "~하는 편이 좋다",
+        "eng_expression": "had better＋동사원형",
+        "example": "When you are free, you <i>had better</i> go out for a walk.",
+        "basic_exercise_list": [
+          {
+            "kor_sentence": "날씨가 안 좋으니 여행을 포기하는 게 좋겠다.",
+            "eng_sentence1": "You had better cancel your trip given the bad weather.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "과식을 하지 않는 편이 좋겠다.",
+            "eng_sentence1": "You had better not overeat.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "요즘 안색이 좋지 않군요, 가능한 빨리 의사의 진단을 받는 편이 좋겠습니다.",
+            "eng_sentence1": "You look pale these days. You had better <b>consult a doctor</b>(= see a doctor) as soon as possible.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "자넨 뭐든지 자네 생각대로만 하는 경향이 있는데, 때론 남의 충고를 귀담아 듣는 게 좋다.",
+            "eng_sentence1": "You <b>tend to</b>(= are apt to/have a tendency to/are liable to/are prone to) have your own way in everything, but you would do better to listen to other people’s advice at times.",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "그 감기가 나을 때까지 집에 있는 것이 상책이다.",
+            "eng_sentence1": "You had best stay (at) home <b>till you get over that cold</b>(= until you recover from that cold).",
+            "eng_sentence2": "",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          },
+          {
+            "kor_sentence": "할 일이 없을 때에는 텔레비전을 보지 말고 책을 읽는 게 좋겠다.",
+            "eng_sentence1": "① When you are free, you had better read a book, instead of watching television.",
+            "eng_sentence2": "② When you have nothing to do, it is better for you to read a book instead of watching television.",
+            "eng_sentence3": "",
+            "eng_sentence4": "",
+            "eng_sentence5": "",
+            "eng_sentence6": ""
+          }
+        ]
+      }
+    ],
+    "hard_exercise_list": [
+      {
+        "kor_sentence": "엄마가 직장에 다니는 아이들은 점점 더 외로워지고 있고 때로는 사회에 적응하는 데 문제를 갖기도 한다. 맞벌이 부부의 자녀로서 열쇠를 갖고 다니는 아이들이 모두 문제아가 되는 것은 아니다. 문제는 사랑과 규율의 부족이다.",
+        "eng_sentence1": "Children with career moms are becoming more lonely, and sometimes have problems adapting themselves to society. All latch-key kids do not necessarily become problem children. Problems are due to the lack of love and discipline.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "한국 남편들에게 흔히 있는 일로써, 결혼기념일이 다가오면 그들은 특별한 선물을 하거나, 아내가 가고 싶어하는 곳으로 여행을 가서 어쩔 수 없이 아내를 즐겁게 해줘야 한다.",
+        "eng_sentence1": "As is often the case with them, when a wedding anniversary approaches, Korean husbands are forced to entertain their wives with special gifts or trips to destinations the wives want to visit.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "그는 조바심이 나면 손톱을 깨무는 버릇이 있다. 그는 대개 팁을 많이 주는 편인데 그런 상황 하에서 자신을 과시하는 경향도 있다.",
+        "eng_sentence1": "When he becomes nervous, he is <b>apt</b>(= liable) to <b>bite</b>(= nibble on) his finger nails. He is usually <b>given</b>(= disposed/inclined) to over-generosity in tipping, and under such circumstances, he <b>tends to</b>(= has a tendency to) show off himself.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "나는 노트북 컴퓨터를 사고 싶지만 현금이 부족하다. 현금 자동인출기에서 돈을 좀 인출하고 싶지만 카드가 연체되어서 그렇게 할 수도 없다. 지난 크리스마스에 선물을 너무 많이 사서 제때 다 갚을 수가 없었다.",
+        "eng_sentence1": "I want to buy a notebook computer, but I’m short of cash. I would like to withdraw some money from an ATM, but it is impossible because I’m behind in my credit card payments. I bought too many gifts last Christmas I couldn’t pay them off in time.(= I boughts <b>so</b> many gifts <b>that</b> I couldn't pay them off in time.)",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      },
+      {
+        "kor_sentence": "열이 있는데다 현기증도 좀 나고 목이 심하게 아프다니 하루 쉬는 편이 좋겠어.",
+        "eng_sentence1": "You had better take a day off because you have been running a fever, feel sort of dizzy, and have a sore throat.",
+        "eng_sentence2": "",
+        "eng_sentence3": "",
+        "eng_sentence4": "",
+        "eng_sentence5": "",
+        "eng_sentence6": ""
+      }
+    ]
+  }
+]

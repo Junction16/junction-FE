@@ -2,13 +2,11 @@ import * as fs from "fs";
 import { defineConfig } from "orval";
 import * as path from "path";
 
-const API_URL =
-  process.env.NODE_ENV === "production"
-    ? process.env.NEXT_PUBLIC_API_URL
-    : "http://127.0.0.1:4000";
+const API_URL = process.env.NEXT_PUBLIC_API_URL;
+console.log(API_URL);
 
 export default defineConfig({
-  yasijang: {
+  api: {
     output: {
       mode: "tags-split",
       target: "./app/api/endpoints/vahanaFromFileSpecWithTransformer.ts",
@@ -28,10 +26,16 @@ export default defineConfig({
           useQuery: true,
           signal: true,
         },
+        components: {
+          schemas: { suffix: "DTO" },
+          responses: { suffix: "Res" },
+          parameters: { suffix: "Params" },
+          requestBodies: { suffix: "Body" },
+        },
       },
     },
     input: {
-      target: `${API_URL}/api/docs.json`,
+      target: `${API_URL}/v3/api-docs`,
     },
     hooks: {
       afterAllFilesWrite: async () => {
@@ -66,11 +70,11 @@ export default defineConfig({
         );
 
         // Run prettier on both Type and Status files in one command
-        await import("child_process").then(({ execSync }) => {
-          execSync('prettier --write "./app/api/model/*{Type,Status}.ts"', {
-            stdio: "inherit",
-          });
-        });
+        // await import("child_process").then(({ execSync }) => {
+        //   execSync('prettier --write "./app/api/model/*{Type,Status}.ts"', {
+        //     stdio: "inherit",
+        //   });
+        // });
       },
     },
   },
