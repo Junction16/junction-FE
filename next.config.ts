@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 import withPWA from "next-pwa";
 
+console.log("A");
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
