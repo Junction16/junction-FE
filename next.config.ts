@@ -88,4 +88,6 @@ export default withPWA({
   workboxOptions: {
     disableDevLogs: true,
   },
+  dynamicStartUrl: true,
+  dynamicStartUrlRedirect: "/splash",
 })(nextConfig);
