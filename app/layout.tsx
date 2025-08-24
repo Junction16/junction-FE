@@ -62,7 +62,7 @@ export default function RootLayout({
       <body className="w-full min-h-screen bg-gray-100 flex items-center justify-center sm:justify-start">
         {/* Animated background */}
         <div
-          className="sm:absolute bg-gradient-animation hidden"
+          className="hidden sm:block sm:absolute bg-gradient-animation z-0"
           style={{
             top: "-50%",
             left: "-50%",
