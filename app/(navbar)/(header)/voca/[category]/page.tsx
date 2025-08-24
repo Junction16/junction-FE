@@ -74,7 +74,7 @@ export default function VocaCategoryPage({
         setIsFirst(false);
       }
     } else {
-      if ((currentIndex + 1) % 5 === 0) {
+      if ((currentIndex + 1) % 5 === 0 && isFirst) {
         const characterIndex = ((currentIndex + 1) / 5 - 1) % characters.length;
         setNewCharacter(characters[characterIndex]);
         setIsModalOpen(true);
@@ -90,7 +90,7 @@ export default function VocaCategoryPage({
     setIsModalOpen(false);
     // setLoad(false);
     // await fetchVoca();
-    setCurrentIndex(currentIndex + 1);
+    // setCurrentIndex(currentIndex + 1);
   };
 
   const handlePrev = () => {

@@ -97,3 +97,34 @@ html {
     opacity: 1;
   }
 }
+
+/* 무작위 느린 움직임 애니메이션 */
+@keyframes slowRandomMove {
+  0% {
+    transform: translate(0, 0);
+  }
+  12.5% {
+    transform: translate(-120px, -160px);
+  }
+  25% {
+    transform: translate(160px, -80px);
+  }
+  37.5% {
+    transform: translate(-64px, 120px);
+  }
+  50% {
+    transform: translate(96px, 64px);
+  }
+  62.5% {
+    transform: translate(-144px, -40px);
+  }
+  75% {
+    transform: translate(80px, -96px);
+  }
+  87.5% {
+    transform: translate(-40px, 144px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}

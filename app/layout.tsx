@@ -1,4 +1,6 @@
+import Logo from "@/public/logo.svg";
 import { Metadata, Viewport } from "next";
+import Image from "next/image";
 import "./globals.css";
 
 export const viewport: Viewport = {
@@ -56,8 +58,40 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className="w-full min-h-screen bg-gray-100 flex items-center justify-center">
-        <div className="w-full sm:w-[430px] bg-white h-screen shadow-lg">
+      {/* {/* <body className="w-full min-h-screen bg-gray-100 flex items-center justify-center"> */}
+      <body className="w-full min-h-screen bg-gray-100 flex items-center justify-center sm:justify-start">
+        {/* Animated background */}
+        <div
+          className="sm:absolute bg-gradient-animation -sm:hidden"
+          style={{
+            top: "-50%",
+            left: "-50%",
+            width: "200%",
+            height: "200%",
+            backgroundImage: "url(/bg.png)",
+            backgroundSize: "120% 120%",
+            backgroundRepeat: "no-repeat",
+            backgroundPosition: "center",
+            animation: "slowRandomMove 10s ease-in-out forwards",
+          }}
+        />
+
+        <div className="hidden sm:flex sm:w-1/2 flex-col justify-center items-center z-10 h-screen gap-[80px] ml-[200px]">
+          <div className="w-[400px] flex items-center justify-center">
+            <Logo width={300} height={100} className="w-full h-full" />
+          </div>
+          <div className="aspect-square flex flex-shrink-0 items-center justify-center">
+            <Image
+              src="/Character_Full_02.png"
+              alt="image"
+              width={400}
+              height={400}
+              className="w-full h-full object-contain"
+            />
+          </div>
+        </div>
+        {/* <div className="w-full sm:w-[430px] bg-white h-screen shadow-lg"> */}
+        <div className="w-full sm:w-1/2 bg-white h-screen shadow-lg sm:z-10 sm:max-w-[430px]">
           {children}
         </div>
       </body>

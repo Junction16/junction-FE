@@ -17,7 +17,7 @@ export default function Header({ title, showSearch }: HeaderProps) {
   return (
     <nav className="w-full h-12 flex items-center relative gap-4">
       <RightArrow
-        width={28}
+        width={30}
         height={58}
         className="rotate-180"
         onClick={() => router.back()}

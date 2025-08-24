@@ -33,7 +33,7 @@ export default function AttendanceCard({ image }: AttendanceCardProps) {
         {/* 이미지 (조금 줄여서 배경이 보이게) */}
         <div className="absolute inset-1 items-center justify-center flex aspect-[3/4]">
           <Image
-            src={`/${image}`}
+            src={`/${image.replace("Character_Full_", "Character_")}`}
             alt="attendance"
             width={120}
             height={120}

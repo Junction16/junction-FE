@@ -1,7 +1,6 @@
 "use client";
 
 import Header from "@/components/Header";
-import Shadow from "@/public/shadow.svg";
 import Image from "next/image";
 import { useParams, useRouter } from "next/navigation";
 import { useState } from "react";
@@ -76,8 +75,8 @@ export default function CardDetailPage() {
   };
 
   return (
-    <div className="w-screen max-w-[430px] -m-4">
-      <div className="w-full without-navbar-height bg-gradient-to-t from-[#D7DCFF] to-[#FAFAFA] flex flex-col">
+    <div className="w-screen max-w-[430px] -m-4 p-4 bg-gradient-to-t from-[#D7DCFF] to-[#FAFAFA] ">
+      <div className="w-full without-navbar-height flex flex-col">
         <Header />
 
         <div className="flex-grow flex items-center justify-center overflow-hidden p-4">
@@ -89,7 +88,6 @@ export default function CardDetailPage() {
               className="object-contain select-none pointer-events-none"
               priority
             />
-            <Shadow className="absolute bottom-36 left-1/2 transform -translate-x-1/2 w-1/2" />
           </div>
         </div>
 

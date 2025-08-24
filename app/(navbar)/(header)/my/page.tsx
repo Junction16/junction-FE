@@ -29,11 +29,11 @@ export default async function MyPage({
 
         {selectedStat === "attendance" && (
           <div className="grid grid-cols-3 gap-4">
-            <AttendanceCard image="Character_01.png" />
-            <AttendanceCard image="Character_02.png" />
-            <AttendanceCard image="Character_03.png" />
-            <AttendanceCard image="Character_04.png" />
-            <AttendanceCard image="Character_05.png" />
+            <AttendanceCard image="Character_Full_01.png" />
+            <AttendanceCard image="Character_Full_02.png" />
+            <AttendanceCard image="Character_Full_03.png" />
+            <AttendanceCard image="Character_Full_04.png" />
+            <AttendanceCard image="Character_Full_05.png" />
             <AttendanceCard />
             <AttendanceCard />
             <AttendanceCard />
