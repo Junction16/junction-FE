@@ -15,7 +15,7 @@ export default function Splash() {
       setTimeout(() => {
         router.push("/");
       }, 500);
-    }, 500);
+    }, 1000);
   }, [router]);
 
   return (
@@ -27,6 +27,7 @@ export default function Splash() {
       >
         <Image
           src="/splash.png"
+          priority
           alt="splash"
           width={1242}
           height={2688}
