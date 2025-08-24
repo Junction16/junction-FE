@@ -91,7 +91,7 @@ export default function RootLayout({
           </div>
         </div>
         {/* <div className="w-full sm:w-[430px] bg-white h-screen shadow-lg"> */}
-        <div className="w-full sm:w-1/2 bg-white h-screen shadow-lg sm:z-10 sm:max-w-[430px]">
+        <div className="relative w-full sm:w-1/2 bg-white h-screen shadow-lg sm:z-10 sm:max-w-[430px]">
           {children}
         </div>
       </body>

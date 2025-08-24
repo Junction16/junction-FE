@@ -12,7 +12,7 @@ export default function NavBar() {
   const pathname = usePathname();
 
   return (
-    <nav className="fixed bottom-0 left-1/2 transform -translate-x-1/2 w-full sm:w-[430px] sm:left-auto sm:right-5 sm:transform-none sm:max-w-[430px] flex justify-between items-center p-8 sm:p-4 rounded-t-3xl bg-white h-[74px] shadow-lg">
+    <nav className="absolute bottom-0 w-full sm:max-w-[430px] flex justify-between items-center p-8 sm:p-4 rounded-t-3xl bg-white h-[74px] shadow-lg">
       <Link
         href="/"
         className={`flex-1 flex flex-col items-center justify-center w-11 h-11 transition-all duration-300 ${
