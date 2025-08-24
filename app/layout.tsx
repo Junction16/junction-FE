@@ -1,11 +1,18 @@
-import { Metadata } from "next";
+import { Metadata, Viewport } from "next";
 import "./globals.css";
+
+export const viewport: Viewport = {
+  themeColor: "#FAFAFA",
+
+  initialScale: 1,
+  viewportFit: "cover",
+  width: "device-width",
+  height: "device-height",
+};
 
 export const metadata: Metadata = {
   title: "Lingo Clips",
   description: "Lingo Clips",
-  manifest: "/manifest.json",
-  themeColor: "#ffffff",
   appleWebApp: {
     capable: true,
     title: "Lingo Clips",
