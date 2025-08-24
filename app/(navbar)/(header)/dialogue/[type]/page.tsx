@@ -14,7 +14,7 @@ export default function DialogueTypePage() {
   const params = useParams();
   const [question, setQuestion] = useState<RandomQuizDTO | null>(null);
   const [answers, setAnswers] = useState<string[]>([]);
-  const [type, setType] = useState<"synonym" | "blank">("synonym");
+  const [type, setType] = useState<"synonym" | "blank" | "fill">("fill");
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [isCreating, setIsCreating] = useState(false);
   const [videoReady, setVideoReady] = useState(false);
@@ -177,7 +177,7 @@ export default function DialogueTypePage() {
             </div>
           </div>
         </>
-      ) : (
+      ) : type === "blank" ? (
         <>
           <div className="bg-white rounded-2xl p-4 w-full max-w-2xl text-center flex flex-col gap-4 mt-14">
             <p className="text-base text-gray-500 leading-relaxed">
@@ -231,6 +231,8 @@ export default function DialogueTypePage() {
             />
           </div>
         </>
+      ) : (
+        <></>
       )}
       <div className="flex flex-col gap-2 mt-34 z-20">
         {question?.choices?.map(({ dummyWord }, index) => (
