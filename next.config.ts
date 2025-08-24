@@ -8,6 +8,10 @@ const nextConfig: NextConfig = {
         protocol: "http",
         hostname: "k.kakaocdn.net",
       },
+      {
+        protocol: "https",
+        hostname: "junction-fe-one.vercel.app",
+      },
     ],
   },
   turbopack: {
