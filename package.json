@@ -9,17 +9,17 @@
     "orval": "env-cmd -f .env.development orval"
   },
   "dependencies": {
+    "@ducanh2912/next-pwa": "^10.2.9",
     "@tanstack/react-query": "^5.85.5",
     "axios": "^1.11.0",
     "next": "15.5.0",
-    "next-pwa": "^5.6.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "workbox-webpack-plugin": "^7.3.0"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
     "@tailwindcss/postcss": "^4",
-    "@types/next-pwa": "^5",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

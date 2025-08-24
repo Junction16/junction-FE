@@ -1,7 +1,6 @@
+import withPWA from "@ducanh2912/next-pwa";
 import type { NextConfig } from "next";
-import withPWA from "next-pwa";
 
-console.log("A");
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -84,5 +83,9 @@ const nextConfig: NextConfig = {
 
 export default withPWA({
   dest: "public",
-  disable: process.env.NODE_ENV === "development",
-})(nextConfig as any);
+  disable: false,
+  register: true,
+  workboxOptions: {
+    disableDevLogs: true,
+  },
+})(nextConfig);
